@@ -1,2 +1,2 @@
-# timer-
+# timer
 simple js timer
